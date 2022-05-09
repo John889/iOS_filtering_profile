@@ -495,6 +495,7 @@
 	 <!-- Here you could block specific App Store apps using BundleID   -->
 	 <!-- This works on iOS 15+. If your device is running an older iOS version, just change blockedAppBundleIDs to blacklistedAppBundleIDs   -->
 	 <!-- For example, to block Find my iPhone apps add com.apple.findmy and com.apple.mobileme.fmip1 to the list-->
+	 <!-- To easily get the BundleID of any app on the app store, use this site: https://offcornerdev.com/bundleid.html-->
 
 			<key>blockedAppBundleIDs</key>
 			<array>
