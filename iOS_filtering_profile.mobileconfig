@@ -395,7 +395,10 @@
 			<key>allowUnpairedExternalBootToRecovery</key>
 			<true/>
 
-
+	<!-- Allow modifying passcode and passcode settings like Touch ID/ FaceID and wiping after too many attempts -->
+			<key>allowPasscodeModification</key>
+			<false/>
+			
 	 <!-- Allow uninstalling apps. (Screen Time is better) -->
 			<key>allowAppRemoval</key>
 			<true/>
