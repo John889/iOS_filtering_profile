@@ -417,7 +417,7 @@
 
 	<!-- Allow modifying passcode and passcode settings like Touch ID/ FaceID  -->
 			<key>allowPasscodeModification</key>
-			<false/>
+			<true/>
 			
 	 <!-- Allow uninstalling apps. (Screen Time is better) -->
 			<key>allowAppRemoval</key>
