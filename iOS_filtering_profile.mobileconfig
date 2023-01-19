@@ -422,6 +422,10 @@
 	 <!-- Allow uninstalling apps. (Screen Time is better) -->
 			<key>allowAppRemoval</key>
 			<true/>
+			
+	<!-- Allow auto download apps purchased/downloaded from other devices -->
+			<key>allowAutomaticAppDownloads</key>
+			<true/>
 
 	 <!-- Allow erasing your iPhone. (Blocked) .   -->
 			<key>allowEraseContentAndSettings</key>
